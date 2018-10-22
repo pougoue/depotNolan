@@ -1,0 +1,4 @@
+creer un depot sur mon compte githup
+creer un dossir sur mon bureau puis ouvrir le dossier et faire un clip droit pour ouvrir visual studio et creer mon fichier
+je retourne dans mon dossier nolan sur le bureau je fait un clip droit pour ouvrir le terminal gitbach pour envoyer le dossier en ligne cest a dire dans mon compte githup
+comme mon depot a deja ete creer et que je vais des rajouts je ne tape plus la commande git init et git remote
