@@ -1,0 +1,5 @@
+creer un dossier dans ma machine
+faire un clic droit et 
+choisir visual studio
+aller dans depotnolan
+creer les fichiers
